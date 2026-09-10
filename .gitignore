@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.pass
+.proton-bridge-pass
+dist/
+build/
+*.egg-info/
+
+intro.md
